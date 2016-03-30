@@ -1,0 +1,4 @@
+[submodule "third_party/freetype2/src"]
+	path = third_party/freetype2/src
+	url = https://chromium.googlesource.com/chromium/src/third_party/freetype2.git
+	branch = fc1532a7c4c592f24a4c1a0261d2845524ca5cff
